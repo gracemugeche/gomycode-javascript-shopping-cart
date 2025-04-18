@@ -1,6 +1,7 @@
 //js/main.js
 
 document.addEventListener("DOMContentLoaded", () => {
+//selecting elements
   const cards = document.querySelectorAll(".card");
   const totalPriceElement = document.querySelector(".total");
 
